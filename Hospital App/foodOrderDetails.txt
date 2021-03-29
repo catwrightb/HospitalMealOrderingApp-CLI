@@ -1,0 +1,17 @@
+Breakfast, Sam, Bridges, 101, Salmon Eggs Benedict, 16/10/20
+Dinner, Patient, 2, 102, Beef Lasagna, 16/10/20
+Lunch, Sam, Bridges, 101, Burger with fries, 18/10/20
+Dinner, Sam, Bridges, 101, Roast Chicken with Vegetables, 17/10/20
+Lunch, Sam, Bridges, 101, Veg Pizza, 17/10/20
+Lunch, Sam, Bridges, 101, Burger with fries, 17/10/20
+Lunch, Sam, Bridges, 101, Burger with fries, 17/10/20
+Lunch, Sam, Bridges, 101, Soup and Salad of the Day, 17/10/20
+Dinner, Gordon, Freeman, 105, Roast Chicken with Vegetables, 17/10/20
+Breakfast, Hideo, Kojima, 103, Salmon Eggs Benedict, 19/10/20
+Breakfast, Hideo, Kojima, 103, Oatmeal with Fruit, 19/10/20
+Dinner, Sam, Bridges, 101, Beef Lasagna, 19/10/20
+Breakfast, Sam, Bridges, 101, Salmon Eggs Benedict, 19/10/20
+Lunch, Sam, Bridges, 101, Soup and Salad of the Day, 19/10/20
+Lunch, Gordon, Freeman, 105, Burger with fries, 19/10/20
+Lunch, Gordon, Freeman, 105, Burger with fries, 19/10/20
+Dinner, Sam, Bridges, 101, Roast Chicken with Vegetables, 19/10/20
